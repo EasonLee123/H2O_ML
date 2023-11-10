@@ -17,3 +17,7 @@ this repo is for studying H2O related ML
    pip install matplotlib
 
  pip install -f http://h2o-release.s3.amazonaws.com/h2o/latest_stable_Py.html h2o
+
+
+# Data source
+[public dataset](https://drive.google.com/file/d/1POFNxAwQlYFjrIOhwF45FZH_90g0U4Ed/view?usp=sharing)
